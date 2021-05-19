@@ -1,0 +1,55 @@
+Type number: 1000
+Model number: 7777
+Description: aaaa
+Malfunction symptoms: bbbb
+Repair methods: cccc
+Part number 1: 4
+Part number 2: 2
+Part number 3: 8
+Cost of work: 1204
+Done: 0
+
+Type number: 1001
+Model number: 9999
+Description: mmmm
+Malfunction symptoms: nnnn
+Repair methods: oooo
+Part number 1: 9
+Part number 2: 21
+Part number 3: 1
+Cost of work: 302
+Done: 1
+
+Type number: 1002
+Model number: 8888
+Description: kkkk
+Malfunction symptoms: tttt
+Repair methods: llll
+Part number 1: 13
+Part number 2: 16
+Part number 3: 7
+Cost of work: 304
+Done: 0
+
+Type number: 1003
+Model number: 4444
+Description: Pulvinar proin gravida hendrerit lectus.
+Malfunction symptoms: Tellus, orci, ac, auctor
+Repair methods: Facilisis, mauris, sit, amet
+Part number 1: 40
+Part number 2: 41
+Part number 3: 42
+Cost of work: 1074
+Done: 0
+
+Type number: 1004
+Model number: 5555
+Description: Pulvinar proin gravida hendrerit lectus sed cras ornare arcu
+Malfunction symptoms: Donec, enim, diam, vulputate
+Repair methods: Facilisis, mauris, sit, amet, massa, vitae
+Part number 1: 50
+Part number 2: 51
+Part number 3: 52
+Cost of work: 624
+Done: 1
+

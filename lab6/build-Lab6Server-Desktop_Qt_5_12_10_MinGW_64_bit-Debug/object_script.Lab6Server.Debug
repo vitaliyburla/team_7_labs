@@ -1,0 +1,11 @@
+debug/ServerWorker.o
+debug/TestServer.o
+debug/main.o
+debug/answer.o
+debug/inmemorydatabase.o
+debug/question.o
+debug/serverwindow.o
+debug/test.o
+debug/moc_ServerWorker.o
+debug/moc_TestServer.o
+debug/moc_serverwindow.o

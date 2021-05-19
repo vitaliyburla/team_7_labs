@@ -1,0 +1,19 @@
+аll: malfdb
+
+malfdb: UserInterface.o libmalf.so 
+	 g++ -o malfdb UserInterface.o -L. -l: libmalf.so -Wl,--rpath - Wl,.
+
+UserInterface.o: UserInterface.cpp
+	g++ -c UserInterface.cpp
+
+libmalf.so: Dababase.o MType.o
+	g++ -shared -o libmalf.so Dababase.o MType.o
+
+MType.o: MType.cpp
+	g++ -c -fPIC MType.cpp
+
+Dababase.o: Dababase.cpp
+	g++ -c -fPIC Dababase.cpp
+
+clean: 
+	rm -rf *.o malfdb

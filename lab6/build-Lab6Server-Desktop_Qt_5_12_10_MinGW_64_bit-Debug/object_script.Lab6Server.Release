@@ -1,0 +1,11 @@
+release/ServerWorker.o
+release/TestServer.o
+release/main.o
+release/answer.o
+release/inmemorydatabase.o
+release/question.o
+release/serverwindow.o
+release/test.o
+release/moc_ServerWorker.o
+release/moc_TestServer.o
+release/moc_serverwindow.o
